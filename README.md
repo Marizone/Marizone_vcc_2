@@ -1,2 +1,2 @@
 # Marizone_vcc_2
-Assignment repo number 2
+Assignment repo number 2 that teaches other stuff we don't know yet.
